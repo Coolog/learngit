@@ -1,3 +1,7 @@
 ddd
 aaa
+<<<<<<< HEAD
 ccc
+=======
+bbb
+>>>>>>> refs/remotes/origin/master
